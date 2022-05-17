@@ -2,7 +2,8 @@
 
 ## :relaxed: Inspired by ekphrastic poems (which I learned from ENGL299 Intro to Poetry)
 
-## Developed by Jessica Cheung.
+Developed by Jessica Cheung.  
+Written in Swift, using MVC model, UI design by Jessica Cheung.
 
 - Create, View, Update, and Delete Notes
 - Save Notes as PDF to iOS device
